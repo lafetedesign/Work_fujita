@@ -45,10 +45,10 @@ li{
     padding-left: 25px;
     border-right: 1px solid #4c4c4c;
 }
-
-.menu5{
-    border-right: none;
+li:last-child{
+    border: none;
 }
+
 
 /* 以下Work2 */
 @media screen and ( max-width: 767px ){
